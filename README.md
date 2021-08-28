@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Application Developing 
 - 🌱 I’m currently learning different computing languages like, java css, .
 - 💞️ I’m looking to collaborate on working for my team  with graduate direct project 
-- 📫 How to reach me ... (akankshagoud.s@gmail.com)
+- 📫 How to reach me ... akankshagoud.s@gmail.com
